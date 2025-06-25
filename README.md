@@ -1,7 +1,7 @@
 ## F0rte 👋
 - Mount Wario
   - MKWorld Competitive Lounge Staff
-- TA (わりすの）
+- TA（わりすの）
   - Progate Path コミュニティ運営部
 
  最近はこの辺りのコミュニティで低浮上してます
