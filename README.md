@@ -4,9 +4,12 @@
 - TA (わりすの）
   - Progate Path コミュニティ運営部
 
+ 最近はこの辺りのコミュニティで低浮上してます
+
 
 ### 技術🔧
 勉強中！
+個人開発・ハッカソンに興味あります
 
 <table>
   <tr>
@@ -37,3 +40,6 @@
       <img src="https://img.shields.io/badge/Vite-FAC42E.svg?logo=vite&style=flat">
     </td>
 </table>
+
+### Repositories
+工事中?
