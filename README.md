@@ -2,10 +2,7 @@
 (使ってる名前一覧?)
 - F0rte
   - 「ふぉるて」と読みます
-- Mount Wario
-  - MKWorld Competitive Lounge Staff
 - TA（わりすの）
-  - Progate Path コミュニティ運営部
 
 各コミュニティで低浮上してます
 
