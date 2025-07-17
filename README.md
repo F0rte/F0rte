@@ -6,6 +6,9 @@
 
 各コミュニティで低浮上してます
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F0rte)
+[![trophy](https://github-profile-trophy.vercel.app/?username=F0rte)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 技術🔧
 勉強中！
